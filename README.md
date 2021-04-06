@@ -23,7 +23,7 @@ A Gmail clone built using [React](https://reactjs.org/), [Redux](https://redux.j
 - [react-spinkit](https://www.npmjs.com/package/react-spinkit)
 
 ## Platform
-Hosted through [Firebase](https://firebase.google.com/)
+Hosted through [Firebase](https://firebase.google.com/).
 
 ## License
 Code released under the [MIT License](https://github.com/Tushar-Indurjeeth/Gmail-Clone/blob/fe20e016ed996758f57c75394eb88c2e677b4f78/LICENSE).
