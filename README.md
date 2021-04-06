@@ -19,7 +19,7 @@ A Gmail clone built using [React](https://reactjs.org/), [Redux](https://redux.j
 - [Firebase](https://firebase.google.com/)
 - [react-firebase-hooks](https://www.npmjs.com/package/react-firebase-hooks)
 - [React Router](https://reactrouter.com/)
-- [Material UI Icons](https://material-ui.com/components/material-icons/)
+- [Material UI](https://material-ui.com/)
 - [react-spinkit](https://www.npmjs.com/package/react-spinkit)
 
 ## Platform
